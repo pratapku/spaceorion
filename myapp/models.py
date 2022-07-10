@@ -1,5 +1,4 @@
 from django.db import models
-from django.db.models.expressions import F
 from django.db.models.fields import CharField, EmailField
 # from embed_video.fields import EmbedVideoField
 from rest_framework import serializers
